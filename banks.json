@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Januar",
+    "type": "EMI",
+    "jurisdiction": "EU",
+    "services": [
+      "OTC",
+      "VASP"
+    ],
+    "payments": [
+      "SEPA",
+      "SWIFT"
+    ],
+    "short": "EU EMI supporting crypto businesses with SEPA/SWIFT rails.",
+    "description": "Januar is an EU-based EMI that supports crypto-related companies with reliable SEPA and SWIFT infrastructure. Suitable for OTC, VASP/CASP entities with proper AML/KYC.",
+    "onboarding": "2\u20136 weeks",
+    "fees": "Depends on volume and risk profile",
+    "website": "https://www.januar.com"
+  },
+  {
+    "id": 2,
+    "name": "Nordark",
+    "type": "EMI",
+    "jurisdiction": "EU",
+    "services": [
+      "OTC",
+      "P2P",
+      "VASP"
+    ],
+    "payments": [
+      "SEPA",
+      "SWIFT"
+    ],
+    "short": "Crypto-friendly EMI in the EU.",
+    "description": "Nordark provides accounts and payment rails for crypto businesses, supporting SEPA and SWIFT. Works with OTC/P2P models on a case-by-case basis.",
+    "onboarding": "2\u20138 weeks",
+    "fees": "Custom",
+    "website": "https://nordark.com"
+  },
+  {
+    "id": 3,
+    "name": "Clear Junction",
+    "type": "EMI",
+    "jurisdiction": "UK",
+    "services": [
+      "OTC",
+      "VASP",
+      "CASP"
+    ],
+    "payments": [
+      "SEPA",
+      "SWIFT",
+      "Faster Payments"
+    ],
+    "short": "UK EMI offering payments and banking for crypto firms.",
+    "description": "Clear Junction is a UK EMI supporting crypto companies, including VASP/CASP, with SEPA, SWIFT, and Faster Payments. Strong compliance requirements.",
+    "onboarding": "3\u201310 weeks",
+    "fees": "Custom",
+    "website": "https://clearjunction.com"
+  }
+]
