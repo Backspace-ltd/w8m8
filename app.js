@@ -1,4 +1,4 @@
-import initDarkVeil from './DarkVeil.js';
+import initDarkVeil from '.DarkVeil.js';
 
 // Basic filtering logic and modal rendering
 const cardsRoot = document.getElementById('cards');
