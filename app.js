@@ -19,7 +19,7 @@ const filterJurisdiction = document.getElementById('filter-jurisdiction');
 let banks = [];
 
 async function loadBanks(){
-  const res = await fetch('data/banks.json');
+  const res = await fetch('banks.json');
   banks = await res.json();
   render();
 }
